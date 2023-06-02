@@ -1,2 +1,2 @@
-# comuna8
- 
+# comuna22
+El repositorio contiene varias capas geoespaciales relacionadas con la comuna 22 y los temas de protección ambiental y recursos hídricos. Estas capas incluyen información sobre barrios, manzanas, comunas y comunas 22, así como capas específicas sobre quebradas y humedales críticos. Además, se utilizan servicios de OpenStreetMap para proporcionar capas base y se han cargado capas locales, como protección ambiental, humedales y quebradas críticas, a través de servicios WMS desde un servidor Geoserver. Estas capas combinadas permiten visualizar y analizar diversos aspectos relacionados con la comuna 22 y su entorno ambiental.
